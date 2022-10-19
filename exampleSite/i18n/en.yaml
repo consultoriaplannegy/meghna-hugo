@@ -19,11 +19,7 @@
   translation: Servicios
 - id: portfolio
   translation: Cartera
-- id: team
-  translation: Team
-- id: pricing
-  translation: Pricing
 - id: blog
   translation: Blog
 - id: contact
-  translation: Contact
+  translation: Contacto
