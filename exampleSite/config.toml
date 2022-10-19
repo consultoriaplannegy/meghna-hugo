@@ -8,7 +8,7 @@ title = "Plannegy | Agencia de comunicación estratégica Chile"
 [Languages.en]
 contentDir = "content/english"
 copyright = "© 2022 Plannegy"
-home = "Plannegy | Agencia de comunicación estratégica Chile"
+home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
