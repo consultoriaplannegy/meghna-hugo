@@ -1,7 +1,7 @@
 ---
 title: Mark Dinn
 image: ''
-email: email2@example.org
+email: consultoriaplannegy@gmail.com
 social:
 - icon: ti-facebook
   link: "#"
