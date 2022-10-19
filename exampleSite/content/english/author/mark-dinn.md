@@ -1,5 +1,5 @@
 ---
-title: Mark Dinn
+title: Marcos Dinn
 image: ''
 email: consultoriaplannegy@gmail.com
 social:
