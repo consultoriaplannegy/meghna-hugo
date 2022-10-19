@@ -140,6 +140,9 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
+icon = "ti_instagram"
+link = "https://www.instagram.com/consultoriaplannegy/?next=%2F"
+[[params.social]]
 icon = "ti-facebook"
 link = "#"
 [[params.social]]
