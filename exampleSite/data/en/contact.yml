@@ -1,8 +1,8 @@
 ---
 contact:
   enable: true
-  title: Contact Us
-  subtitle: Contact Details
+  title: Contáctanos
+  subtitle: Datos de contacto
   content: Un servicio estratégico a tu medida por medio de asistencia virtual, coordinaciones
     por correo electrónico.
   contact_list:
