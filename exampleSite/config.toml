@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Plannegy | Agencia de comunicación estratégica Chile"
 [Languages.en]
 contentDir = "content/english"
-copyright = "© 2022 Plannegy"
+copyright = "© 2022 Consultoría Plannegy"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
