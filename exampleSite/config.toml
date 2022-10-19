@@ -17,10 +17,6 @@ name = "Sobre Nosotros"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Servicios"
-url = "#services"
-weight = 2
-[[Languages.en.menu.main]]
 name = "Blog"
 url = "#blog"
 weight = 6
