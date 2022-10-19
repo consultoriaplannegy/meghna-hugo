@@ -1,5 +1,5 @@
 baseURL = "https://www.consultoriaplannegy.gq/"
-disableLanguages = ["fr", ""]
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
