@@ -137,8 +137,8 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
-preloader = "images/logo.png"
+enable = true
+preloader = "/images/favicon-2.PNG"
 [[params.social]]
 icon = "ti_instagram"
 link = "https://www.instagram.com/consultoriaplannegy/?next=%2F"
