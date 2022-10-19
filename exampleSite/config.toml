@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Consultoría Plannegy"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2022"
+copyright = "© 2022 Plannegy"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
