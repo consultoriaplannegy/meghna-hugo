@@ -1,8 +1,8 @@
 ---
 title: Meta articulates Make-A-Video, which makes video from text
 date: 2022-09-30T20:51:12+00:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image_webp: "/images/w2vthyw1shrzblgp.jpg"
+image: ''
 author: Marcos Dinn
 description: This is meta description
 
