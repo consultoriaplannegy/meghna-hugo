@@ -1,9 +1,10 @@
+---
 - id: blogTitle
   translation: Latest Post
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: Mirar Todos los Post
 - id: share
   translation: Share
 - id: aboutAuthor
