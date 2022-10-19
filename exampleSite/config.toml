@@ -21,7 +21,7 @@ name = "Servicios"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Blog"
 url = "#blog"
 weight = 6
 [[Languages.en.menu.main]]
