@@ -101,7 +101,7 @@ weight = 8
 author = "Consultoría Plannegy"
 description = "Sitio de Corporación Plannegy, servicios estratégicos y creativos para las empresas del hoy en los desafíos del mañana."
 google_analytics_id = "G-8BDLTRE688"
-logo = "images/logo.png"
+logo = "/images/favicon-2.PNG"
 post_share = true
 [params.cookies]
 enable = false
