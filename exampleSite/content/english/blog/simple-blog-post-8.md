@@ -1,8 +1,8 @@
 ---
 title: Meta articulates Make-A-Video, which makes video from text
 date: 2022-09-30T20:51:12+00:00
-image_webp: "/images/w2vthyw1shrzblgp.jpg"
-image: ''
+image_webp: "/images/w2vthyw1shrzblgp.webp"
+image: "/images/w2vthyw1shrzblgp.jpg"
 author: Marcos Dinn
 description: Meta Video from Text IA
 
