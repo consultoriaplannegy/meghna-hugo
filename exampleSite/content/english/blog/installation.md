@@ -1,82 +1,17 @@
 ---
-title: "How To Setup Meghna Hugo"
-date: 2018-09-12T14:51:12+06:00
+title: Mario + Rabbids Sparkles of Trust a close up
+date: 2022-10-19T19:08:12+00:00
 author: Mark Dinn
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
-description : "This is meta description"
+image_webp: "/images/mario-yrabbit.PNG"
+image: ''
+description: MMario + Rabbids Sparkles of Trust a brief approach to what Ubisoft offersario
+  + Rabbids Sparkles of Trust a close up
+
 ---
+Mario + Rabbids Sparkles of Trust es un videojuego de metodología por turnos creado por Ubisoft Milan y Ubisoft Paris, de calidad comprobado por Ubisoft Pune y distribuido por Ubisoft para Nintendo Switch. El juego es un híbrido entre Mario de Nintendo y los establecimientos Rabbids de Ubisoft y es una continuación de Mario + Rabbids Realm Fight (2017). Fue entregado el 20 de octubre de 2022. Además, se están desarrollando tres extensiones de sustancias descargables, una de las cuales destaca a Rayman.
 
-## Install this template by following those simple steps:
+Después de Realm Fight, una sustancia llamada Cursa ha estado esparciendo materia aburrida llamada Darkmess y buscando la energía de los Sparkles nominales, animales formados por la combinación de Lumas y Rabbids, sumergiendo el sistema cósmico en la confusión. Mario y sus compañeros deben hacer un viaje a varios universos para restablecer la armonía con el sistema cósmico, salvar a los Flashes y derrotar a Cursa y sus seguidores, los Flash Trackers. A ellos se unen nuevos socios, incluido Bowser, que desea recuperar su fuerza armada tomada de Cursa.
 
-### STEP-1 : Hugo installation
+La interacción continua en Sparkles of Trust es en gran medida como la de Realm Fight. Los jugadores pueden elaborar su programa de personajes de Rabbid Peach, Rabbid Luigi y Rabbid Mario, junto con los nuevos personajes Edge, Rabbid Rosalina y Bowser, con los Rabbids completamente expresados de manera interesante. Los jugadores también tienen la responsabilidad de salvaguardar los Sparkles a través del sistema cósmico, que dan poderes inconfundibles que ayudarán al jugador en la lucha.
 
-Check this link below for install hugo on your computer.
-[hugo install documentation](https://gohugo.io/getting-started/installing/)
-
-### STEP-2 : Create your project
-
-Hugo provides a `new` command to create a new website.
-
-```
-hugo new site <new_project>
-```
-
-### STEP-3 : Install the theme
-Run this command
-```
-hugo new site meghna-hugo
-```
-and then go to the themes folder inside of meghna-hugo folder. You can also use this command ```cd meghna-hugo/themes``` for going to this folder.
-Then run the command 
-```
-git clone git@github.com:themefisher/meghna-hugo.git
-```
-
-Alternatively, you can [download the theme as .zip](https://github.com/themefisher/meghna-hugo/archive/master.zip) file and extract it in the `themes` directory
-
-After that you need to go to the `meghna-hugo/exampleSite` folder and copy or cut all the elements, and now go back to the root folder and paste it here.
-
-open the command prompt again and run `cd ../` command for go back to the root folder.
-
-### STEP-4 : Host locally
-
-Launching the website locally by using the following command:
-
-```
-hugo serve
-```
-
-Go to `http://localhost:1313`
-
-Or you can check this video documentation for installing this template:
-{{< youtube 3O3qvDoVp5g >}}
-
-### STEP-5 : Basic configuration
-
-When building the website, you can set a theme by using `--theme` option. However, we suggest you modify the configuration file (`config.toml`) and set the theme as the default.
-
-```toml
-# Change the default theme to be use when building the site with Hugo
-theme = "meghna-hugo"
-```
-
-### STEP-6 : Create your first content pages
-
-```
-hugo new blog/post-name.md
-```
-
-### STEP-7 : Build the website
-
-When your site is ready to deploy, run the following command:
-
-```
-hugo
-
-# You can also create a minified version by using this command:
-hugo--minify
-
-```
-
-A `public` folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.
+No se parece en nada al juego principal, los planes de nivel son menos rectos, y la batalla estratégica por turnos incluye otro marco que descarta el diseño basado en celosía del juego principal. Esta nueva batalla ha sido contrastada con la de juegos como Heavenly nature: Unique Sin. Además, se destacan las experiencias del adversario más allá de la batalla por turnos. Mario ahora puede ser suplantado por una persona alternativa. El creador principal, Xavier Manzanares, hablando sobre la nueva batalla expresó: "puedes moverte por aquí de la manera que necesites, puedes ejecutar un BMB de rebote, luego, en ese momento, lo tienes a tu alcance. Puedes moverte según lo necesites, sin embargo, en ese momento detonará. Así que tienes un par de momentos para responder, que no es exactamente lo mismo que teníamos anteriormente. Por lo tanto, lleva este componente continuo a la mezcla".
