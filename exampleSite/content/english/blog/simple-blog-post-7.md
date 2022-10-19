@@ -2,7 +2,7 @@
 title: Gotham Knights PC Suggested Specs Uncovered
 date: 2022-10-19T20:30:36+00:00
 image_webp: ''
-image: ''
+image: "/images/gotham-knights-generacion-xbox-940x529-jpg.webp"
 author: Marcos Dinn
 description: This is the way to get 60FPS.
 
@@ -38,3 +38,5 @@ Capacity: 60GB
 This ought to give you 60FPS at 1080p on high settings.
 
 Reactions to the specs have been confounded and disheartened. For a game running at 1080p, that is a really powerful setting you really want.
+
+More information [here](https://www.gothamknightsgame.com/es-es).
