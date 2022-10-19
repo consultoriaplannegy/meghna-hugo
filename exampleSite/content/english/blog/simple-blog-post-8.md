@@ -4,7 +4,7 @@ date: 2022-09-30T20:51:12+00:00
 image_webp: "/images/w2vthyw1shrzblgp.jpg"
 image: ''
 author: Marcos Dinn
-description: This is meta description
+description: Meta Video from Text IA
 
 ---
 Utilizing a text portrayal or a continuous picture, Make-A-Video can convey video on request.
