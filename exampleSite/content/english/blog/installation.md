@@ -1,7 +1,7 @@
 ---
 title: Mario + Rabbids Sparkles of Trust a close up
 date: 2022-10-19T19:08:12+00:00
-author: Mark Dinn
+author: Marcos Dinn
 image_webp: "/images/mario-yrabbit.PNG"
 image: ''
 description: Mario + Rabbids Sparkles of Trust a brief approach to what Ubisoft offersario
