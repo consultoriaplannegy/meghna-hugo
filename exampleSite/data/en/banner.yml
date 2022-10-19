@@ -9,6 +9,6 @@ banner:
     Necesitamos estrategia, creatividad e innovación para desarrollar los negocios del mañana.
     Un servicio que brinda inteligencia, creatividad e innovación a tu negocio.
   button:
-    enable: true
+    enable: false
     label: Explore Us
     link: "#services"
