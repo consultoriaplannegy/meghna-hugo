@@ -4,7 +4,7 @@ date: 2022-10-19T19:08:12+00:00
 author: Mark Dinn
 image_webp: "/images/mario-yrabbit.PNG"
 image: ''
-description: MMario + Rabbids Sparkles of Trust a brief approach to what Ubisoft offersario
+description: Mario + Rabbids Sparkles of Trust a brief approach to what Ubisoft offersario
   + Rabbids Sparkles of Trust a close up
 
 ---
