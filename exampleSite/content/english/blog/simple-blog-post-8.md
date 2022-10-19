@@ -7,7 +7,7 @@ author: Marcos Dinn
 description: Meta Video from Text IA
 
 ---
-Utilizing a text portrayal or a continuous picture, Make-A-Video can convey video on request.
+## Utilizing a text portrayal or a continuous picture, Make-A-Video can convey video on request.
 
 Today, Meta detailed Make-A-Video, a man-made insight filled video generator that can make novel video content from text or picture prompts, such as existing picture association gadgets like DALL-E and Stable Scattering. It can moreover make assortments of existing accounts, but it's not yet open for public use.
 
