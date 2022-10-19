@@ -13,25 +13,13 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "Sobre Nosotros"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
 name = "services"
 url = "#services"
 weight = 2
-[[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 3
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
 [[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
@@ -40,24 +28,6 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
-[[Languages.en.menu.main]]
-hasChildren = true
-name = "Dropdown"
-weight = 7
-[[Languages.en.menu.main]]
-name = "Dropdown 1"
-parent = "Dropdown"
-url = "#"
-weight = 1
-[[Languages.en.menu.main]]
-name = "Dropdown 2"
-parent = "Dropdown"
-url = "#"
-weight = 2
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
