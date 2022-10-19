@@ -6,7 +6,7 @@
 - id: viewAllPost
   translation: Mirar Todos los Post
 - id: share
-  translation: Share
+  translation: Compartir
 - id: aboutAuthor
   translation: About author
 - id: authorsPosts
