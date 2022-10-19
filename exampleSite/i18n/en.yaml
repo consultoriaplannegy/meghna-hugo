@@ -14,7 +14,7 @@
 - id: all
   translation: Todo
 - id: about
-  translation: About Us
+  translation: Acerca de
 - id: services
   translation: Service
 - id: portfolio
