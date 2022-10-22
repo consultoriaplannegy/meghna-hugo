@@ -9,7 +9,7 @@ skill:
   skill_item:
   - name: Creación de ideas
     percent: 90%
-  - name: Analysis
+  - name: Análisis
     percent: 70%
   - name: Estrategia
     percent: 80%
