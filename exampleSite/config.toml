@@ -107,7 +107,7 @@ enable = true
 preloader = "/images/favicon-2.PNG"
 [[params.social]]
 icon = "ti-instagram"
-link = "https://www.instagram.com/consultoriaplannegy/?next=%2F"
+link = "https://www.instagram.com/consultoria_plannegy/?next=%2F"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
