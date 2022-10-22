@@ -2,7 +2,6 @@
 author = "Marcos Dinn"
 date = 2022-10-22T03:00:00Z
 description = "Fostering an strategic communication plan is vital for any organization or association that needs to prevail on the lookout and accomplish its objectives."
-draft = true
 image = ""
 image_webp = ""
 title = "How to elaborate a strategic communication plan?"
