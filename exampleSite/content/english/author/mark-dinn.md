@@ -9,6 +9,7 @@ social:
   link: "#"
 - icon: ti-github
   link: "#"
+draft: true
 
 ---
 Hello, I am the content director of the Plannegy Consulting website.
