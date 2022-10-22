@@ -5,10 +5,12 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Consultoría Plannegy
-  content: |-
-    Necesitamos estrategia, creatividad e innovación para desarrollar los negocios del mañana.
-
-    Un servicio que brinda inteligencia, creatividad e innovación a tu negocio.
+  content: "Necesitamos estrategia, creatividad e innovación para desarrollar los
+    negocios del mañana.\n\nUn servicio que brinda inteligencia, creatividad e innovación
+    a tu negocio basado en plan(es) de comunicación estratégica, retroalimentación,
+    modelos de comunicación, elaboración de mensajes persuasivos, planificación de
+    medios, medición de KPI'S o métricas clave de desempeño, manejo de herramientas
+    para la gestión de marcas, etc. "
   button:
     enable: false
     label: Explore Us
