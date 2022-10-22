@@ -4,13 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Consultoría Plannegy
-  content: "Necesitamos estrategia, creatividad e innovación para desarrollar los
-    negocios del mañana.\n\nUn servicio que brinda inteligencia, creatividad e innovación
-    a tu negocio basado en plan(es) de comunicación estratégica, retroalimentación,
-    modelos de comunicación, elaboración de mensajes persuasivos, planificación de
-    medios, medición de KPI'S o métricas clave de desempeño, manejo de herramientas
-    para la gestión de marcas, etc. "
+  title: 'Comunicación Estratégica Efectiva para tu Marca '
+  content: Un plan de comunicación estratégico es esencial para garantizar que el
+    mensaje de su empresa sea claro y consistente en todos los canales.
   button:
     enable: false
     label: Explore Us
