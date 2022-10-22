@@ -1,5 +1,5 @@
 +++
-author = "Marcos Dinn"
+author = ""
 date = 2022-10-22T03:00:00Z
 description = "Fostering an strategic communication plan is vital for any organization or association that needs to prevail on the lookout and accomplish its objectives."
 image = ""
