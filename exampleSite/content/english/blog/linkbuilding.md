@@ -1,5 +1,5 @@
 +++
-author = "Marcos Dinn"
+author = ""
 date = 2022-10-22T03:00:00Z
 description = "Estrategy Linkbuilding "
 image = ""
