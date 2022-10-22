@@ -8,7 +8,7 @@ skill:
   image: images/about/company-growth.webp
   skill_item:
   - name: 'Plan de Comunicación Estratégica '
-    percent: "95"
+    percent: 95%
   - name: Creación de ideas
     percent: 90%
   - name: Análisis
