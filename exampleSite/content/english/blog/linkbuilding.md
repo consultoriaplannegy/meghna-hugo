@@ -2,8 +2,8 @@
 author = ""
 date = 2022-10-22T03:00:00Z
 description = "Estrategy Linkbuilding "
-image = ""
-image_webp = ""
+image = "/images/link-building-1-1.jpg"
+image_webp = "/images/link-building-1-1.jpg"
 title = "Linkbuilding"
 
 +++
