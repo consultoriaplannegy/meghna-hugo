@@ -13,30 +13,30 @@ The specs were shared on Twitter the previous evening, only days before the game
 
 The game's Steam posting has been refreshed to mirror the specs, alongside the base PC prerequisites that distributer Warner Brothers. recently affirmed before in the week.
 
-As an update, the base determinations are:
+Como actualización, las determinaciones básicas son:
 
-Processor: Intel Center i5-9600K or Ryzen 5 3600
+Procesador: Intel Center i5-9600K o Ryzen 5 3600
 
-Memory: 8GB Smash
+Memoria: 8GB Smash
 
-Illustrations card: Geforce GTX 1660 Ti or Radeon RX 590
+Tarjeta de ilustraciones: Geforce GTX 1660 Ti o Radeon RX 590
 
-Capacity: 60GB
+Capacidad: 60GB
 
 This will play at an expected 60FPS at 1080p on the most minimal settings.
 
-The suggested determinations are:
+Las determinaciones sugeridas son:
 
-Processor: Intel Center i7-10700K or Ryzen 5 5600X
+Procesador: Intel Center i7-10700K o Ryzen 5 5600X
 
-Memory: 16GB
+Memoria: 16GB
 
-Illustrations card: Geforce RTX 2070 or Radeon RX 5700 XT
+Tarjeta de ilustraciones: Geforce RTX 2070 o Radeon RX 5700 XT
 
-Capacity: 60GB
+Capacidad: 60GB
 
-This ought to give you 60FPS at 1080p on high settings.
+Esto debería darle 60FPS a 1080p en configuraciones altas.
 
 Reactions to the specs have been confounded and disheartened. For a game running at 1080p, that is a really powerful setting you really want.
 
-More information [here](https://www.gothamknightsgame.com/es-es).
+Más información [aquí](https://www.gothamknightsgame.com/es-es).
