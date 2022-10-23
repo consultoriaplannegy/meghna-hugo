@@ -3,7 +3,7 @@ title: Gotham Knights PC Suggested Specs Uncovered
 date: 2022-10-19T20:30:36+00:00
 image_webp: "/images/gotham-knights-generacion-xbox-940x529-jpg.webp"
 image: "/images/gotham-knights-generacion-xbox-940x529-jpg.webp"
-author: Marcos Dinn
+author: ''
 description: This is the way to get 60FPS.
 
 ---
