@@ -15,19 +15,19 @@ Generar
 
 \# Estado de la URL
 
-1	[https://www.cy-pr.com/a/www.consultoriaplannegy.gq](https://www.cy-pr.com/a/www.consultoriaplannegy.gq "https://www.cy-pr.com/a/www.consultoriaplannegy.gq")	ok
+1 [https://www.cy-pr.com/a/www.consultoriaplannegy.gq](https://www.cy-pr.com/a/www.consultoriaplannegy.gq "https://www.cy-pr.com/a/www.consultoriaplannegy.gq") Aceptar
 
-2	[http://uptime.netcraft.com/up/graph?site=www.consultoriaplannegy.gq](http://uptime.netcraft.com/up/graph?site=www.consultoriaplannegy.gq "http://uptime.netcraft.com/up/graph?site=www.consultoriaplannegy.gq")	ok
+2 [http://uptime.netcraft.com/up/graph?site=www.consultoriaplannegy.gq](http://uptime.netcraft.com/up/graph?site=www.consultoriaplannegy.gq "http://uptime.netcraft.com/up/graph?site=www.consultoriaplannegy.gq") aceptar
 
-3	[http://www.statshow.com/www/www.consultoriaplannegy.gq/](http://www.statshow.com/www/www.consultoriaplannegy.gq/ "http://www.statshow.com/www/www.consultoriaplannegy.gq/")	ok
+3 [http://www.statshow.com/www/www.consultoriaplannegy.gq/](http://www.statshow.com/www/www.consultoriaplannegy.gq/ "http://www.statshow.com/www/www.consultoriaplannegy.gq/") aceptar
 
-4	[http://whois.domaintools.com/www.consultoriaplannegy.gq](http://whois.domaintools.com/www.consultoriaplannegy.gq "http://whois.domaintools.com/www.consultoriaplannegy.gq")	ok
+4 [http://whois.domaintools.com/www.consultoriaplannegy.gq](http://whois.domaintools.com/www.consultoriaplannegy.gq "http://whois.domaintools.com/www.consultoriaplannegy.gq") aceptar
 
-5	[http://toolbar.netcraft.com/site_report?url=www.consultoriaplannegy.gq](http://toolbar.netcraft.com/site_report?url=www.consultoriaplannegy.gq "http://toolbar.netcraft.com/site_report?url=www.consultoriaplannegy.gq")	ok
+5 [http://toolbar.netcraft.com/site_report?url=www.consultoriaplannegy.gq](http://toolbar.netcraft.com/site_report?url=www.consultoriaplannegy.gq "http://toolbar.netcraft.com/site_report?url=www.consultoriaplannegy.gq") aceptar
 
-6	[https://semrush.com/info/www.consultoriaplannegy.gq](https://semrush.com/info/www.consultoriaplannegy.gq "https://semrush.com/info/www.consultoriaplannegy.gq")	ok
+6 [https://semrush.com/info/www.consultoriaplannegy.gq](https://semrush.com/info/www.consultoriaplannegy.gq "https://semrush.com/info/www.consultoriaplannegy.gq") aceptar
 
-7	[http://web.horde.to/www.consultoriaplannegy.gq](http://web.horde.to/www.consultoriaplannegy.gq "http://web.horde.to/www.consultoriaplannegy.gq")	ok
+7 [http://web.horde.to/www.consultoriaplannegy.gq](http://web.horde.to/www.consultoriaplannegy.gq "http://web.horde.to/www.consultoriaplannegy.gq") aceptar
 
 8 [https://www.woorank.com/en/www/www.consultoriaplannegy.gq](https://www.woorank.com/en/www/www.consultoriaplannegy.gq "https://www.woorank.com/en/www/www.consultoriaplannegy.gq") aceptar
 
