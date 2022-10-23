@@ -7,6 +7,6 @@ image_webp = "/images/plan-comunicacion.jpg"
 title = "How to elaborate a strategic communication plan?"
 
 +++
-* Desarrollar un plan estratégico de comunicación es muy importante para cualquier empresa u organización que quiera tener éxito en el mercado y alcanzar sus objetivos. Una buena comunicación estratégica puede ayudarte a crecer y prosperar.
-* Desarrollar un plan estratégico de comunicación es muy importante para cualquier empresa que quiera crecer y prosperar en el mercado. Una buena comunicación estratégica ayuda a entender al cliente, lo que le permite tener una mejor relación con ellos.
-* Un plan estratégico de comunicación es una herramienta que permite analizar la relación entre objetivos y acciones para lograr el resultado deseado. Desarrollar un plan estratégico de comunicación requiere una serie de pasos, entre ellos definir el objetivo, identificar los medios de comunicación, seleccionar los mensajes, evaluar los resultados obtenidos y determinar los desafíos futuros.
+* Developing a strategic communication plan is very important for any company or organization that wants to succeed in the market and achieve its goals. A good strategic communication can help you grow and prosper.
+* Developing a strategic communications plan is very important for any company that wants to grow and prosper in the marketplace. Good strategic communications helps in understanding the customer, which allows you to have a better relationship with them.
+* A strategic communication plan is a tool that allows you to analyze the relationship between objectives and actions to achieve the desired result. Developing a strategic communication plan requires a series of steps, including defining the objective, identifying the means of communication, selecting the messages, evaluating the results obtained and determining the future challenges.
