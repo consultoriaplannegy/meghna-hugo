@@ -2,8 +2,8 @@
 author = ""
 date = 2022-10-22T03:00:00Z
 description = "Fostering an strategic communication plan is vital for any organization or association that needs to prevail on the lookout and accomplish its objectives."
-image = ""
-image_webp = ""
+image = "/images/plan-comunicacion.jpg"
+image_webp = "/images/plan-comunicacion.jpg"
 title = "How to elaborate a strategic communication plan?"
 
 +++
