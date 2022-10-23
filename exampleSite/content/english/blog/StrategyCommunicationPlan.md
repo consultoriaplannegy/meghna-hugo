@@ -3,7 +3,7 @@ title: 5 Tips for Creating an Effective Strategy Communication Plan
 date: 2018-09-12T12:52:36.000+06:00
 image_webp: ''
 image: ''
-author: Marcos Dinn
+author: ''
 description: A strategy communication plan is essential to ensure that your company’s
   message is clear and consistent across all channels.
 
