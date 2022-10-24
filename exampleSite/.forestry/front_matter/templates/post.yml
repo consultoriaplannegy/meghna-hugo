@@ -23,5 +23,5 @@ fields:
   label: description
   description: meta description
 pages:
-- exampleSite/content/english/blog/how-to-elaborate-a-strategic-communication-plan.md
 - exampleSite/content/english/blog/linkbuilding.md
+- exampleSite/content/english/blog/why-consider-a-strategic-communication-plan.md
