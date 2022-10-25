@@ -9,8 +9,6 @@ title = "How to build your own smart contract on the blockchain"
 +++
 ### **How to build your own smart contract on the blockchain**
 
-![](/images/smart-contracts-process-digital-secure-transaction-by-using-smart-contract-blockchain-technology_48369-40780.webp)Image source: FreeImages
-
 Smart contracts drive much of the value of blockchain technology, with companies implementing them to manage digital transactions. For example, in a supply chain where multiple parties are involved, a smart contract can be used to track inventory and automatically transfer it from one party to another when needed. These contracts work by having pre-programmed conditions that must be met for something to happen; for example, that the second party receives the inventory once the first party has less than a certain amount left. The conditions are written in code and stored in an immutable blockchain network. Once these contracts have been deployed and recorded in the ledger, they are autonomously executed as if they were set in stone. There are different ways to build your own smart contract on the blockchain
 
 #### How do smart contracts work?
