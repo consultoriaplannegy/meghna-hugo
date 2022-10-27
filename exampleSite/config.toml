@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Plannegy | Agencia de comunicación estratégica Chile"
+title = "Plannegy | Marketing "
 [Languages.en]
 contentDir = "content/english"
 copyright = "© 2022 Consultoría Plannegy"
