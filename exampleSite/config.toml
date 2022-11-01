@@ -112,7 +112,7 @@ link = "https://www.instagram.com/consultoria_plannegy/?next=%2F"
 icon = "ti-twitter-alt"
 link = "https://twitter.com/CPlannegy"
 [[params.social]]
-icon = "ti-redbubble-alt"
+icon = "ti-redbubble"
 link = "http://www.redbubble.com/es/people/plannegy"
 [[params.social]]
 icon = "ti-youtube"
