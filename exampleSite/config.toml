@@ -106,7 +106,7 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "/images/favicon-2.PNG"
 [[params.social]]
-icon = "ti-redbubble"
+icon = "ti-redbubble-alt"
 link = "http://www.redbubble.com/es/people/plannegy"
 [[params.social]]
 icon = "ti-instagram"
