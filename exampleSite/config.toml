@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Marketing Digital - Consultoría Plannegy "
 [Languages.en]
 contentDir = "content/english"
-copyright = "© 2022 Consultoría Plannegy"
+copyright = "© 2022-2023 Consultoría Plannegy"
 home = "Home"
 languageCode = "es-CL"
 languageName = "Es"
